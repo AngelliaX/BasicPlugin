@@ -1,0 +1,10 @@
+name: BasicPlugin
+version: 1
+main: Tungst_bpl\Main
+api: 3.0.0
+author: TungstenVn
+commands:
+ bpl:
+  description: "Open How To PLay"
+  default: OP
+  permission: bpl.pm
